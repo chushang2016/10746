@@ -1,4 +1,4 @@
-# 10746_ssm589基于BS的项目监管系统+jsp
+# 10746_ssm基于BS的项目监管系统+jsp
   
 # 项目资料包含：
 * 前后端源代码+SQL脚本
@@ -8,7 +8,7 @@
 # 项目资料获取方式
 * 需要资料或者有任何问题的加QQ：2684634017
 
-* 项目源代码下载地址：http://blog.codercode.cn/#/home/goodDetail?goodId=10746
+* 项目源代码下载地址：https://bysj.bsitem.com/#/home/goodDetail?goodId=10746
 
 * 项目演示视频: https://graduation-images.oss-cn-beijing.aliyuncs.com/videos/828%E5%A5%97ssm%E5%BD%95%E5%83%8F/10746_ssm589%E5%9F%BA%E4%BA%8EBS%E7%9A%84%E9%A1%B9%E7%9B%AE%E7%9B%91%E7%AE%A1%E7%B3%BB%E7%BB%9F%2Bjsp%E5%BD%95%E5%83%8F.mp4
 
